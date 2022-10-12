@@ -22,6 +22,7 @@ Then depending on which way we go, that node has a left and a right and so on.
 4. A Perfect Binary Search Tree is one in which it is both full and complete.
 
 Functions: 
+
 1.insert (to insert an item in tree "first insertion will be the root")
 
 2.prorder
