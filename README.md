@@ -25,7 +25,7 @@ Functions:
 
 1.insert (to insert an item in tree "first insertion will be the root")
 
-2.prorder
+2.preorder
 
 3.inorder
 
