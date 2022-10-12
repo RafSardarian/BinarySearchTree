@@ -23,13 +23,23 @@ Then depending on which way we go, that node has a left and a right and so on.
 
 Functions: 
 1.insert (to insert an item in tree "first insertion will be the root")
-2.prorder 
+
+2.prorder
+
 3.inorder
+
 4.postorder
+
 5.levelorder
+
 6.find (will return True if would find an item)
+
 7.clear (to clear all tree)
+
 8.erase (will delete an item)
+
 9.height (will count height of the tree)
+
 10.number of nodes (will count all nodes in tree)
+
 11. to close the program type 0
