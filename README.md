@@ -1,5 +1,5 @@
 !!!ATTENTION!!!
-if you're a not developer or have not any idea what's Binary Search Tree, then it's README file for you,
+if you're a not developer or don't have any idea what's Binary Search Tree, then it's README file for you,
 otherwise just read BST's docsting and run only it.
 
 
